@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic | Chowdhury Ahmed Hossain</title>
-    <link>http://localhost:1313/tags/academic/</link>
-      <atom:link href="http://localhost:1313/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ahmed-hossain.github.io/academic/tags/academic/</link>
+      <atom:link href="https://ahmed-hossain.github.io/academic/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo_hue7e62c4f772194a421d67346fef2ac96_8407_300x300_fit_lanczos_3.png</url>
+      <url>https://ahmed-hossain.github.io/academic/media/logo_hue7e62c4f772194a421d67346fef2ac96_8407_300x300_fit_lanczos_3.png</url>
       <title>Academic</title>
-      <link>http://localhost:1313/tags/academic/</link>
+      <link>https://ahmed-hossain.github.io/academic/tags/academic/</link>
     </image>
     
     <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
-      <link>http://localhost:1313/post/get-started/</link>
+      <link>https://ahmed-hossain.github.io/academic/post/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/get-started/</guid>
+      <guid>https://ahmed-hossain.github.io/academic/post/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
